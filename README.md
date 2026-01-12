@@ -1,7 +1,7 @@
 # 🧠 RAG-Based PDF Chatbot using Gemini & FAISS
 
 🚀 **Live Application:**
-👉 [https://rag-based-use-chatbot.streamlit.app/](https://rag-based-use-chatbot.streamlit.app/)
+👉 https://rag-based-pdf-chatbot-gemini.streamlit.app/
 
 A **Retrieval-Augmented Generation (RAG)** powered chatbot that allows users to upload PDF documents and ask natural language questions, receiving **accurate, context-aware answers** grounded in the document content.
 
