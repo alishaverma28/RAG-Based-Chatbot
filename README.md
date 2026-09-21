@@ -120,14 +120,6 @@ GOOGLE_API_KEY=your_google_gemini_api_key
 streamlit run app.py
 ```
 
-Open your browser at:
-
-```
-http://localhost:8501
-```
-
----
-
 ## 🧪 How to Use
 
 1. Upload a **PDF document**
@@ -179,10 +171,10 @@ http://localhost:8501
 ## 👩‍💻 Author
 
 **Alisha Verma**
-MCA | Data Analytics | GenAI Enthusiast
+AI Engineer | Data Science & Analytics | GenAI Enthusiast
 AWS Certified | Python | SQL | Cloud | AI
 
-📫 *Open to Data Analyst / GenAI / Cloud opportunities*
+📫 *Open to AI Engineer*
 
 ---
 
